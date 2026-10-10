@@ -1,0 +1,19 @@
+langchain
+langchain-core
+langchain-classic
+langchain-community
+langgraph
+fastapi
+uvicorn
+dotenv
+fastmcp
+langchain-openai
+langchain-tavily
+psycopg[binary]==3.3.4
+psycopg_pool==3.3.1
+tavily-python==0.7.24
+langgraph-checkpoint-postgres==3.1.0
+airportsdata==20260315
+pycountry==26.2.16
+jinja2==3.1.6
+# - e.
